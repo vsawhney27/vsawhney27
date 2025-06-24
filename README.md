@@ -32,7 +32,7 @@ I’m currently deepening my knowledge of computer science through coursework an
 ---
 
 ## Experience Snapshot
-- **Foqal** – AI/ML Intern  
+- **Foqal Analytics** – AI/ML Intern  
   > Built a job intelligence system using Python and NLP to extract hiring trends and business insights from job postings.
 
 - **Blutag** – Intern  
