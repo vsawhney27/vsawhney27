@@ -48,6 +48,7 @@ I’m currently deepening my knowledge of computer science through coursework an
 Based in NYC  
 [vsawhney@wisc.edu](mailto:vsawhney@wisc.edu)  
 [GitHub](https://github.com/vsawhney27)
+[LinkedIn](https://www.linkedin.com/in/veer-sawhney/)
 
 ---
 
