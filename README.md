@@ -32,14 +32,14 @@ I’m currently deepening my knowledge of computer science through coursework an
 ---
 
 ## Experience Snapshot
+- **Foqal** – AI/ML Intern  
+  > Built a job intelligence system using Python and NLP to extract hiring trends and business insights from job postings.
+
 - **Blutag** – Intern  
   > Conducted product and market research for generative AI tools in retail; presented directly to CEO.
 
 - **VCV Digital Group** – College-Level Intern  
   > Performed VC trend analysis in blockchain + crypto, selected as only high schooler among college interns.
-
-- **Summer on the Hill** – Coding/Robotics Instructor  
-  > Taught 30+ students from underrepresented backgrounds how to code and build robots.
 
 ---
 
