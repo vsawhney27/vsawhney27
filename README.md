@@ -1,4 +1,4 @@
-Veer Sawhney
+## Veer Sawhney
 
 **Undergraduate Student @ University of Wisconsin–Madison**  
 Majoring in **Computer Science** and **Economics**  
