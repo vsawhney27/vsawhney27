@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Veer Sawhney
+Veer Sawhney
 
-🎓 **Undergraduate Student @ University of Wisconsin–Madison**  
-📚 Majoring in **Computer Science** and **Economics**  
-🔍 Focused on **Artificial Intelligence**, **Machine Learning**, and **Applied Data Science**
+**Undergraduate Student @ University of Wisconsin–Madison**  
+Majoring in **Computer Science** and **Economics**  
+Focused on **Artificial Intelligence**, **Machine Learning**, and **Applied Data Science**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a student developer passionate about building intelligent systems that solve real-world problems. From conducting research on generative AI in retail at **Blutag**, to analyzing VC trends in crypto at **VCV Digital**, I've had the opportunity to explore technology through both engineering and business lenses.
 
@@ -14,24 +14,24 @@ I’m currently deepening my knowledge of computer science through coursework an
 
 ---
 
-## 💡 Interests
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Predictive Analytics
-- 🛒 Retail Tech & Conversational AI
-- 🧠 Generative Models (LLMs, RAG systems, etc.)
-- 🧑‍💻 Building useful tools that blend engineering + strategy
+## Interests
+- Artificial Intelligence & Machine Learning
+- Data Science & Predictive Analytics
+- Retail Tech & Conversational AI
+- Generative Models (LLMs, RAG systems, etc.)
+- Building useful tools that blend engineering + strategy
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, JavaScript  
-- **Libraries**: NumPy, Pandas, scikit-learn, TensorFlow (learning)  
+## 🛠Technologies & Tools
+- **Languages**: Python, Java, JavaScript, C  
+- **Libraries**: NumPy, Pandas, scikit-learn, TensorFlow  
 - **Tools**: Git, GitHub, VS Code, Jupyter  
 - **Other**: Prompt Engineering, AI research, Data Visualization
 
 ---
 
-## 📈 Experience Snapshot
+## Experience Snapshot
 - **Blutag** – Intern  
   > Conducted product and market research for generative AI tools in retail; presented directly to CEO.
 
@@ -43,11 +43,11 @@ I’m currently deepening my knowledge of computer science through coursework an
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-📍 Based in NYC  
-📧 [vsawhney@wisc.edu](mailto:vsawhney@wisc.edu)  
-🔗 [GitHub](https://github.com/vsawhney27)
+Based in NYC  
+[vsawhney@wisc.edu](mailto:vsawhney@wisc.edu)  
+[GitHub](https://github.com/vsawhney27)
 
 ---
 
