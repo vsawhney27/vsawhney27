@@ -23,7 +23,7 @@ I’m currently deepening my knowledge of computer science through coursework an
 
 ---
 
-## 🛠Technologies & Tools
+## Technologies & Tools
 - **Languages**: Python, Java, JavaScript, C  
 - **Libraries**: NumPy, Pandas, scikit-learn, TensorFlow  
 - **Tools**: Git, GitHub, VS Code, Jupyter  
